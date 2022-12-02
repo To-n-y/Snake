@@ -1,4 +1,4 @@
-# Snake game written in C++ using QT framework as BSU FAMCS student project.
+## Snake game written in C++ using QT framework as BSU FAMCS student project.
 
 ## Features
 - 3 languages: English, Russian and Ukrainian.
